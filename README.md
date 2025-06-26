@@ -1,16 +1,19 @@
-## Hi there 👋
+# Lucas Silvério Neiva 👋
 
-<!--
-**Lucas-Silverio/Lucas-Silverio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍🎓 Formado em Análise e Desenvolvimento de Sistemas  
+📖 Cursando Técnico em Desenvolvimento de Sistemas (SENAI)  
+🎯 Em transição de carreira com foco em Backend, Dados e DevOps
 
-Here are some ideas to get you started:
+## ⚙️ Tecnologias
+- **Linguagens:** Python, JavaScript, C#, SQL
+- **Frameworks:** React, Node.js, Vite, Pandas
+- **Ferramentas:** Git, GitHub, VS Code, Postman
+- **Outros:** APIs REST, algoritmos inteligentes, lógica de programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Projetos em Destaque
+- [📊 Análise de Dados com Pandas](https://github.com/Lucas-Silverio/projeto-pandas-coleta)
+- [🌐 API Rick and Morty com React + Vite](https://github.com/Lucas-Silverio/projeto-api-react-vite)
+- [🧠 Algoritmo Genético](https://github.com/Lucas-Silverio/AlgoritmoGenetico)
+- [🧭 A* (A Estrela)](https://github.com/Lucas-Silverio/AEstrela)
+
+📫 Entre em contato: snwlucas@gmail.com
