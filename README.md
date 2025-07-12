@@ -11,6 +11,7 @@
 - **Outros:** APIs REST, algoritmos inteligentes, lógica de programação
 
 ## 💻 Projetos em Destaque
+- [🖥️ Projeto MVVM + clean com tkinter](https://github.com/Lucas-Silverio/projeto-tkinter)
 - [📊 Análise de Dados com Pandas](https://github.com/Lucas-Silverio/projeto-pandas-coleta)
 - [🌐 API Rick and Morty com React + Vite](https://github.com/Lucas-Silverio/projeto-api-react-vite)
 - [🧠 Algoritmo Genético](https://github.com/Lucas-Silverio/AlgoritmoGenetico)
