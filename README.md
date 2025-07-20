@@ -2,11 +2,11 @@
 
 🧑‍🎓 Formado em Análise e Desenvolvimento de Sistemas  
 📖 Cursando Técnico em Desenvolvimento de Sistemas (SENAI)  
-🎯 Em transição de carreira com foco em Backend, Dados e DevOps
+🎯 Em transição de carreira com foco em Engenharia de Dados, Backend e Automação/Bots.
 
 ## ⚙️ Tecnologias
-- **Linguagens:** Python, JavaScript, C#, SQL
-- **Frameworks:** React, Node.js, Vite, Pandas
+- **Linguagens:** Python, JavaScript, SQL
+- **Frameworks:** Psycopg2, React, FastApi, Pandas
 - **Ferramentas:** Git, GitHub, VS Code, Postman
 - **Outros:** APIs REST, algoritmos inteligentes, lógica de programação
 
